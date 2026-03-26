@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 
 # Get token from environment
-TOKEN = os.getenv("8648753740:AAG3SGTWRPw8LKl2G93CYZxt11XEwHExi3w")
+TOKEN = os.getenv("8648753740:AAHcWWwlO4U9-pXN69C4U5Cx1yQy0kSGp4A")
 
 # Debug check (THIS WILL SHOW IN RENDER LOGS)
 if not TOKEN:
